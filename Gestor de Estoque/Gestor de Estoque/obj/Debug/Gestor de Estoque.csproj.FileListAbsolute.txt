@@ -1,0 +1,7 @@
+C:\Users\Usuario\OneDrive\Anexos\Desktop\9.0\Gestor de Estoque\Gestor de Estoque\bin\Debug\Gestor de Estoque.exe.config
+C:\Users\Usuario\OneDrive\Anexos\Desktop\9.0\Gestor de Estoque\Gestor de Estoque\bin\Debug\Gestor de Estoque.exe
+C:\Users\Usuario\OneDrive\Anexos\Desktop\9.0\Gestor de Estoque\Gestor de Estoque\bin\Debug\Gestor de Estoque.pdb
+C:\Users\Usuario\OneDrive\Anexos\Desktop\9.0\Gestor de Estoque\Gestor de Estoque\obj\Debug\Gestor de Estoque.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Anexos\Desktop\9.0\Gestor de Estoque\Gestor de Estoque\obj\Debug\Gestor de Estoque.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Anexos\Desktop\9.0\Gestor de Estoque\Gestor de Estoque\obj\Debug\Gestor de Estoque.exe
+C:\Users\Usuario\OneDrive\Anexos\Desktop\9.0\Gestor de Estoque\Gestor de Estoque\obj\Debug\Gestor de Estoque.pdb
